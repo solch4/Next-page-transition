@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        archivo: "Archivo",
         latoLight: "LatoLight",
         latoBold: "LatoBold",
         latoReg: "LatoReg",
